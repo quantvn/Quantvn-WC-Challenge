@@ -5,8 +5,7 @@
 Dùng dữ liệu **Polymarket** (prediction market tiền thật) + Elo để dự đoán World Cup 2026.
 Đánh giá bằng **Brier Score** — càng thấp càng tốt.
 
-> 🟢 **Chưa biết gì về code?** Đọc [START_HERE.md](START_HERE.md) — hướng dẫn từng bước.
-> 📖 **Muốn hiểu sâu hơn?** Đọc [GUIDE.md](GUIDE.md).
+> 📖 **Hướng dẫn đầy đủ:** đọc [docs/GUIDE.pdf](docs/GUIDE.pdf) (hoặc [docs/GUIDE.docx](docs/GUIDE.docx)) — từ giới thiệu, 3 cách tiếp cận theo trình độ, cách tính điểm, đến quy trình nộp bài và FAQ.
 
 ---
 
@@ -147,9 +146,10 @@ quantvn-oracle-wc2026/
 │   └── matches.json         ← 104 trận + kết quả thực tế
 ├── submissions/
 │   └── example.py           ← xem ví dụ ở đây
-├── START_HERE.md            ← hướng dẫn cho người mới
-├── GUIDE.md                 ← hướng dẫn chi tiết
-└── COMPETITION.md           ← luật thi đấu đầy đủ
+├── docs/
+│   ├── GUIDE.pdf            ← hướng dẫn đầy đủ (bản đọc)
+│   └── GUIDE.docx           ← hướng dẫn đầy đủ (bản chỉnh sửa)
+└── README.md                ← tổng quan (file này)
 ```
 
 ---
