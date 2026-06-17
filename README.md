@@ -154,4 +154,12 @@ quantvn-oracle-wc2026/
 
 ---
 
+## Lưu ý quan trọng
+
+Challenge này chỉ tổ chức vì **mục đích học tập và nghiên cứu** — rèn luyện kỹ năng lập trình, mô hình hóa xác suất và phân tích dữ liệu thể thao.
+
+**Nghiêm cấm** mọi hành vi sử dụng challenge, dữ liệu, hay kết quả dự đoán cho mục đích **cá cược** dưới bất kỳ hình thức nào. QuantVN **miễn trừ mọi trách nhiệm** liên quan đến các hành vi cá cược hoặc thiệt hại phát sinh từ việc sử dụng nội dung challenge sai mục đích. Người tham gia tự chịu trách nhiệm về hành vi của mình.
+
+---
+
 *Good luck. May your calibration be sharp. ⚽*
